@@ -1,6 +1,6 @@
 ![Profileviews](https://komarev.com/ghpvc/?username=your-github-Ishan-S24&style=plastic)
 # 💫 About Me: 
- 🔭 I’m currently Learning<br>💬 Contact me at:ishanshresthi03@gmail.com<br>⚡ Fun fact about me: Besides coding, I also love gaming. 
+ 🔭 I’m currently Learning<br>💬 Contact me at: ishanshresthi03@gmail.com<br>⚡ Fun fact about me: Besides coding, I also love gaming. 
   
   
  ## 🌐 Socials: 
@@ -20,8 +20,5 @@
   
  ### ✍️ Random Dev Quote 
  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko) 
-  
- ### 🔝 Top Contributed Repo 
- ![](https://github-contributor-stats.vercel.app/api?username=Ishan-S24&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) 
  
 ![Awesome](https://awesome.re/badge.svg)
